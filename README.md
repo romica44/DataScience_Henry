@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3> Tema: KPI's </h3>
+<h3 align="center"> Tema: KPI's </h3>
 
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <hr>
 <br>
-<h4> Video de la Clase</h4>
+<h4 align="center"> Video de la Clase</h4>
 
 <div align="center">
   <a href="https://vimeo.com/730619141" target="_blank"><img height="80" src="./reproductor-de-video.png"/></a>
