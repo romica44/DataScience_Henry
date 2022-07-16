@@ -17,6 +17,6 @@
 <br>
 <h4> Video de la Clase</h4>
 
-<div align="left">
+<div margin-left="10px">
   <a href="https://vimeo.com/730619141" target="_blank"><img height="80" src="./reproductor-de-video.png"/></a>
 </div>
