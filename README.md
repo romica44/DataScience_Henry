@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <img height="50" src="./logohenry.jpg" />
+  <img height="500" src="./logohenry.jpg" />
 </p>
 
 <p align="left">
