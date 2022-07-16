@@ -14,6 +14,8 @@
 </p>
 
 <hr>
+<br>
+<h4> Video de la Clase</h4>
 <p>
-  <a href='https://vimeo.com/730619141'  height="250" </a>
+  <a href="" src='https://vimeo.com/730619141'  </a>
 </p>
