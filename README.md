@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img height="50" src="./Clase/Slides/Slide02.jpg" />
+  <img height="500" src="./Clase/Slides/Slide02.jpg" />
 </p>
 
 <p align="left">
