@@ -18,5 +18,5 @@
 <h4> Video de la Clase</h4>
 
 <p align="left">
-  <img height="80" src="./reproductor-de-video.png"/><a link to="https://vimeo.com/730619141">Link al video</a>
+  <img height="80" src="./reproductor-de-video.png"/><a href="https://vimeo.com/730619141">Link al video</a>
 </p>
